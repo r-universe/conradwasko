@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hydroEvents"]
+	path = hydroEvents
+	url = https://github.com/conradwasko/hydroevents
+	shallow = true
+	registered = true
